@@ -1,2 +1,2 @@
 # parcial3_poo
-Juan Marin 200210171
+Juan Miguel Marin Sanchez 2252 
