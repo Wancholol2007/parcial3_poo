@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  */
 public class pRegistration extends Registration<Passenger>{
     

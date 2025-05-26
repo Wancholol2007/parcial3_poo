@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  */
 public class vRegistration extends Registration<Flight> {
     LocalDateTime hoy = LocalDateTime.now();

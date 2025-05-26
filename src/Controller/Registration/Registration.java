@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  * @param <T>
  */
 public abstract class Registration<T> {

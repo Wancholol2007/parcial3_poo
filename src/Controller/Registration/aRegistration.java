@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  */
 public class aRegistration extends Registration<Plane>{
     

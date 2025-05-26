@@ -8,7 +8,7 @@ import View.AirportFrame;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  */
 public class Main {
     public static void main(String args[]) {

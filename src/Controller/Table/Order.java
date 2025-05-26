@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author HLLINAS
+ * @author wanch
  */
 public class Order {
 
