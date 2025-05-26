@@ -1,2 +1,2 @@
 # parcial3_poo
-Juan Marin
+Juan Marin 200210171
